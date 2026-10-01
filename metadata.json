@@ -1,0 +1,6 @@
+{
+  "name": "VÉNARO — Modern Luxury Menswear",
+  "description": "Premium luxury men's clothing e-commerce with futuristic 3D visual experiences, smart sizing, and seamless order delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
